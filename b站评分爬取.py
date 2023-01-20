@@ -1,6 +1,5 @@
 import json
 import requests
-from lxml import etree
 
 all_score = 0
 rshu = 0
